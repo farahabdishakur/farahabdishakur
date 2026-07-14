@@ -6,7 +6,7 @@ Waxaan ahay arday **Software Engineering** ah oo ka tirsan Kulliyadda Computing 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
-### 🧐 Wax badan oo iga saabsan:
+### <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="30"/> Wax badan oo iga saabsan:
 
 - 🔭 &nbsp; Waxaan hadda ka shaqeynayaa mashruuc **CV Website** ([arag halkan](https://cv-wabiste.vercel.app/))
 - 🌱 &nbsp; Waxaan hadda barto **React Native, MongoDB, iyo Network Security**
@@ -15,7 +15,7 @@ Waxaan ahay arday **Software Engineering** ah oo ka tirsan Kulliyadda Computing 
 
 <br>
 
-### 🔨 Luqadaha iyo Aaladaha:
+### <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> Luqadaha iyo Aaladaha:
 
 <a href="https://dart.dev/" target="_blank"><img align="left" alt="Dart" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/dart/dart.svg"></a>
 <a href="https://flutter.dev/" target="_blank"><img align="left" alt="Flutter" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg"></a>
@@ -28,7 +28,7 @@ Waxaan ahay arday **Software Engineering** ah oo ka tirsan Kulliyadda Computing 
 
 <br><br><br>
 
-### 📊 Github Stats
+### <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> Github Stats
 
 <div align="left">
   <a href="https://github.com/farahabdishakur">
@@ -41,7 +41,7 @@ Waxaan ahay arday **Software Engineering** ah oo ka tirsan Kulliyadda Computing 
 
 <br>
 
-### 🛠️ Mashruucyadeyda
+### <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="30"/> Mashruucyadeyda
 
 <a href="https://cv-wabiste.vercel.app/" target="_blank">
   <img alt="CV Website" src="https://img.shields.io/badge/🌐%20CV_Website-8B5CF6?style=for-the-badge&logoColor=white" height="40">
