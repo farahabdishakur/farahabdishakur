@@ -1,4 +1,4 @@
-## Hey 👋, I'm Farah Adel!
+## Salaan 👋, waxaan ahay Farah!
 
 <a href='https://www.linkedin.com/in/YOUR-LINKEDIN/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/YOUR-TWITTER/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
@@ -6,28 +6,29 @@
 <br/>
 <br/>
 
-I'm a **Flutter Developer 📱** studying **ICT & Cybersecurity 🔐**. I love building cross-platform mobile apps and exploring the security side of technology — from secure app development to network defense.
+Waxaan ahay arday **Software Engineering** ah oo ka tirsan Kulliyadda Computing & ICT. Waxaan xiisayn u qabaa **Mobile App Development 📱**, **Databases 🗄️**, iyo **Cybersecurity 🔐**. Waxaan jeclahay inaan dhiso apps mobile ah oo tayo leh, isla markaana barto sida nidaamyada loo ilaaliyo.
 
 <br/>
 
-### 🧐 More About Me:
+### 🧐 Wax badan oo iga saabsan:
 
-- 🔭 &nbsp; I'm currently working on **[YOUR CURRENT PROJECT]**
-- 🌱 &nbsp; I'm currently learning **Cybersecurity fundamentals & Network Security**
-- 👨‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/YOUR-USERNAME?tab=repositories)
-- 💬 &nbsp; Ask me about anything related to Flutter or Mobile Dev, happy to help
-- 📫 &nbsp; Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- 🔭 &nbsp; Waxaan hadda ka shaqeynayaa mashruuc **CV Website** ([arag halkan](https://cv-wabiste.vercel.app/))
+- 🌱 &nbsp; Waxaan hadda barto **React Native, MongoDB, iyo Network Security**
+- 👨‍💻 &nbsp; Mashruucyadeyda badankood waxay ku yaalliin [Github](https://github.com/YOUR-USERNAME?tab=repositories)
+- 💬 &nbsp; I weydii wax kasta oo ku saabsan Mobile Dev ama Cybersecurity, waan kaa caawin doonaa
+- 📫 &nbsp; Ila soo xiriir [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 
 <br>
 
-### 🔨 Languages and Tools:
+### 🔨 Luqadaha iyo Aaladaha:
 
 <a href="https://dart.dev/" target="_blank"><img align="left" alt="Dart" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/dart/dart.svg"></a>
 <a href="https://flutter.dev/" target="_blank"><img align="left" alt="Flutter" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"><img align="left" alt="Firebase" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg"></a>
-<a href="https://developer.android.com" target="_blank"><img align="left" alt="Android" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mongodb/mongodb.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"><img align="left" alt="Firebase" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg"></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
 
 <br><br>
@@ -38,7 +39,7 @@ I'm a **Flutter Developer 📱** studying **ICT & Cybersecurity 🔐**. I love b
 
 <br>
 
-### 🛠️ My Projects
+### 🛠️ Mashruucyadeyda
 
-- **[Project Name 1](YOUR-LINK)** — وصف قصير للمشروع
-- **[Project Name 2](YOUR-LINK)** — وصف قصير للمشروع
+- **[CV Website](https://cv-wabiste.vercel.app/)** — Website shakhsi ah oo lagu muujiyo CV/Resume
+- **[Project Name 2](YOUR-LINK)** — sharaxaad gaaban oo mashruuca ku saabsan
