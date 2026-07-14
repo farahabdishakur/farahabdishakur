@@ -1,4 +1,4 @@
-## Salaan 👋, waxaan ahay Farah!
+## Salaan 👋, waxaan ahay Faarax!
 
 Waxaan ahay arday **Software Engineering** ah oo ka tirsan Kulliyadda Computing & ICT. Waxaan xiisayn u qabaa **Mobile App Development 📱**, **Databases 🗄️**, iyo **Cybersecurity 🔐**. Waxaan jeclahay inaan dhiso apps mobile ah oo tayo leh, isla markaana barto sida nidaamyada loo ilaaliyo.
 <br/>
